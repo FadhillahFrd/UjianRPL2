@@ -1,5 +1,5 @@
 # UjianRPL2
-\n Ujian Rekayasa Perangkat Lunak 2
-\n Nama  : Fadhillah Farid
-\n Kelas : 4IA17
-\n NPM   : 52419120
+Ujian Rekayasa Perangkat Lunak 2
+1. Nama  : Fadhillah Farid
+2. Kelas : 4IA17
+3. NPM   : 52419120
